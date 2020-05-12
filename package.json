@@ -1,0 +1,22 @@
+{
+  "name": "algopuzzle",
+  "version": "1.0.0",
+  "description": "Interactive application to learn algorithmic thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddMarkov/AlgoPuzzle.git"
+  },
+  "author": "Dimitar Markov, Kristyan Yochev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddMarkov/AlgoPuzzle/issues"
+  },
+  "homepage": "https://github.com/ddMarkov/AlgoPuzzle#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
